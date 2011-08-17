@@ -1,0 +1,21 @@
+<blast>
+	<from>
+		<name>Your loving neighbour</name><!-- set and forget -->
+		<email-address>foo@bar.baz</email-address><!-- set and forget -->
+	</from>
+	<to>
+		<audience-id>1</audience-id>
+		<include-lists>6</include-lists><!-- automated -->
+	</to>
+<!-- Manually set subject -->
+	<subject>Bipolar? Get affordable coverage anyway</subject>
+	<body>
+<!-- Manually set email-id -->
+		<email-id>6142</email-id>
+	</body>
+	<options>
+		<track-views>true</track-views>
+		<track-clicks>true</track-clicks>
+	</options>
+	<scheduled-for>YYYY-MM-DDTHH:MM:SSZ</scheduled-for><!-- automated -->
+</blast>

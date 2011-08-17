@@ -1,0 +1,1 @@
+all = 'audience', 'connection', 'import', 'list', 'membership', 'person', 'upload', 'blast'
